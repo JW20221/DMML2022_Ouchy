@@ -1,16 +1,16 @@
 # DMML2022_Ouchy
 
-###Team name: 
+### Team name: 
 Ouchy
 
-###Participants: 
+### Participants: 
 Jingmin Wang
 
-###Description:
+### Description:
 A classifier that predicts how difficults is some text in French (A1,...C2).
 
-Approach:
+### Approach:
 
-Results table:
+### Results table:
 
-Explainatory video link:
+### Explainatory video link:
