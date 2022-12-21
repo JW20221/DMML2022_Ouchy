@@ -1,9 +1,6 @@
-# DMML2022_Ouchy
 
 # Project： Detecting the difficulty level of French texts
-
-This project was to develop a model to detech the different levels of French: A1, A2, B1, B2, C1, C2.
-
+# DMML2022_Ouchy
 ---
 
 ## Table of Contents
@@ -14,21 +11,21 @@ This project was to develop a model to detech the different levels of French: A1
 4. Video
 ---
 
-# 0. Team participant
+## 0. Team participant
 Jingmin Wang
 
 ---
 
-# 1. Description
+## 1. Description
 To improve one's foreign language level, reading text suit for the reader's level is an efficient way. This project built a model for English speakers that predicts the difficulty of a French written text. This can be used in a recommendation system to recommend texts for readers.
 
 ---
 
-# 2. Approach
+## 2. Approach
 
 ---
 
-# 3. Results table:
+## 3. Results table
 | Classifier      | Accuracy | Precision     | Recall | F1_Score |
 | :---        |    :----:   |    ---: |    :----:   |    ---: |
 | Logistic Regression      | 0.4604      | 0.4577   |  0.4595  | 0.4554      | 
@@ -40,4 +37,4 @@ To improve one's foreign language level, reading text suit for the reader's leve
 
 ---
 
-### Explainatory video link:
+## 4. Explainatory video link
