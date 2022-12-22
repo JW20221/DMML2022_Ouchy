@@ -26,15 +26,24 @@ To improve one's foreign language level, reading text suit for the reader's leve
 ---
 
 ## 3. Results table
+
+Results without Data Cleaning
 | Classifier      | Accuracy | Precision     | Recall | F1_Score |
 | :---        |    :----:   |    ---: |    :----:   |    ---: |
-| Logistic Regression      | 0.4604      | 0.4577   |  0.4595  | 0.4554      | 
-| KNN   | 0.3438      | 0.3712      |   0.3422    |  0.3260    |
-| Decision Tree   |    0.3115      | 0.3100      |   0.3107    |  0.3094  |
-| Random Forest   |   0.4021  | 0.4061      |   0.400  |   0.3905  |
-| RidgeClassifier      | 0.3156      | 0.3823   |   0.3137  |  0.2913   |
-| LinearSVC      | 0.5333      | 0.530738   |   0.532414  |  0.530353  ||
+| Logistic Regression      | 0.4740      | 0.4670   |  0.4740  | 0.4671      | 
+| KNN   | 0.3531      | 0.3825      |   0.3531   |  0.3268    |
+| Decision Tree   |    0.3396      | 0.3360      |   0.3396    |  0.3366  |
+| Random Forest   |   0.4000  | 0.3924      |   0.4000  |   0.3867  |
+| LinearSVC      | 0.6729      | 0.6680   |   0.6729  |  0.6667  ||
 
+Results with Data Cleaning
+| Classifier      | Accuracy | Precision     | Recall | F1_Score |
+| :---        |    :----:   |    ---: |    :----:   |    ---: |
+| Logistic Regression      | 0.4333      | 0.4268   |  0.4333  | 0.4280      | 
+| KNN   | N/A      | N/A      |   N/A   |  N/A    |
+| Decision Tree   |    0.3177      | 0.3166      |   0.3177    |  0.3095  |
+| Random Forest   |   0.3781  | 0.3975      |   0.3781  |   0.3629  |
+| LinearSVC      | 0.6521      | 0.6506   |   0.6521  |  0.6420  ||
 ---
 
 ## 4. Explainatory video link
