@@ -52,3 +52,4 @@ Results with Data Cleaning
 ---
 
 ## 4. Explainatory video link
+https://youtu.be/ixKY8vbWjoE
